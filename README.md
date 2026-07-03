@@ -4,9 +4,11 @@
 Java 기반 클래식 아케이드 게임 **PAC-MAN**입니다. 1980년 발매된 원작 게임을 JAVA로 재구현하는 것을 목표로 진행한 프로젝트입니다.
 
 
-<img width="280" height="280" alt="1" src="https://github.com/user-attachments/assets/ca00015e-1692-4db7-a20d-60ed2f854bf4" />
-<img width="280" height="280" alt="2" src="https://github.com/user-attachments/assets/be345396-8031-46ff-ae75-33285e1097d5" />
-<img width="280" height="280" alt="3" src="https://github.com/user-attachments/assets/e829703d-3522-4d6e-8f96-348af5ed8851" />
+<img width="400" height="400" alt="1" src="https://github.com/user-attachments/assets/ca00015e-1692-4db7-a20d-60ed2f854bf4" /> <br/>
+
+<img width="400" height="400" alt="2" src="https://github.com/user-attachments/assets/be345396-8031-46ff-ae75-33285e1097d5" /> <br/>
+
+<img width="400" height="400" alt="3" src="https://github.com/user-attachments/assets/e829703d-3522-4d6e-8f96-348af5ed8851" /> 
 
 ## 📌 게임 소개
 
